@@ -1,8 +1,6 @@
 ## Welcome To I-Cyto Shakes
 
-You can use the [editor on GitHub](https://github.com/idcybertechno/icyto-shakes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+'I-Cyto Shakes' is a collection of carefully designed open source animations with multiple animations. It is made for you that it gets your website / app moving.
 
 ### Markdown
 
