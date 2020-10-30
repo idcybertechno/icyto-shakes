@@ -2,6 +2,10 @@
 
 'I-Cyto Shakes' is a collection of carefully designed open source animations with multiple animations. It is made for you that it gets your website / app moving.
 
+### Usage
+Using via CSS
+1. Include a stylesheet in your document <head>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
