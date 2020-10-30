@@ -48,3 +48,8 @@ You can change the speed of the animation with the animation-duration property &
 Animate your Tag on hover with pre built CSS animations using classes `cyto-shakes-spin-hover`,`cyto-shakes-tada-hover`,`cyto-shakes-flashing-hover`,`cyto-shakes-burst-hover`,`cyto-shakes-fade-left-hover` and `cyto-shakes-fade-right-hover`
 
 You can change the speed of the animation with the animation-duration property & to change the number of times the animation takes place with the property animation-iteration-count in CSS
+
+## Animation on Hover
+Animate your Tag on hover with pre built CSS animations using classes cyto-shakes-spin-hover,cyto-shakes-tada-hover,cyto-shakes-flashing-hover,cyto-shakes-burst-hover,cyto-shakes-fade-left-hover and cyto-shakes-fade-right-hover
+
+You can change the speed of the animation with the animation-duration property & to change the number of times the animation takes place with the property animation-iteration-count in CSS
