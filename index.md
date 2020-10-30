@@ -6,9 +6,9 @@
 Using via CSS
 1. Include a stylesheet in your document &lt;head&gt;
 ```markdown
-&lt;head&gt;
+<head>
   <link rel="stylesheet" href="https://ghcdn.rawgit.org/idcybertechno/icyto-shakes/gh-pages/i-cyto-shakes.css">
-&lt;/head&gt;
+</head>
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
