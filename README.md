@@ -12,3 +12,8 @@ Using via CSS
 ```
 ## How to use
 To use Animations on your page, add a 'cyto-shakes' class and separate classes with animation names with the prefix 'cyto-shakes-'.
+```markdown
+<h1 class="cyto-shakes-tada">Hello Word</h1>
+<img class="cyto-shakes-spin">
+<p class="cyto-shakes-flashing"></p>
+```
