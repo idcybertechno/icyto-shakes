@@ -38,3 +38,8 @@ Create an HTML document and copy-paste the starter template
    </body>
 </html>
 ```
+
+## Animation
+Animate your Tag with pre built CSS animations using classes cyto-shakes-spin,cyto-shakes-tada,cyto-shakes-flashing,cyto-shakes-burst,cyto-shakes-fade-left and cyto-shakes-fade-right
+
+You can change the speed of the animation with the animation-duration property & to change the number of times the animation takes place with the property animation-iteration-count in CSS
