@@ -4,7 +4,7 @@
 
 ### Usage
 Using via CSS
-1. Include a stylesheet in your document <head>
+1. Include a stylesheet in your document &lt;head&gt;
 
 ### Markdown
 
