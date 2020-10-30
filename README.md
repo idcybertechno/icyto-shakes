@@ -17,3 +17,24 @@ To use Animations on your page, add a 'cyto-shakes' class and separate classes w
 <img class="cyto-shakes-spin">
 <p class="cyto-shakes-flashing"></p>
 ```
+## Starter Templates
+Create an HTML document and copy-paste the starter template
+
+```markdown
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <!-- Cyto CSS -->
+      <link rel="stylesheet" href="https://ghcdn.rawgit.org/idcybertechno/icyto-shakes/gh-pages/i-cyto-shakes.css">
+      <title>Hello, Boxicons!</title>
+   </head>
+   <body>
+      <h1>Hello, I-Cyto Shakes</h1>
+      <h1 class="cyto-shakes-tada">Hello Word</h1>
+      <img class="cyto-shakes-spin">
+      <p class="cyto-shakes-flashing">Hello Word</p>
+   </body>
+</html>
+```
