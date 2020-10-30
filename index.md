@@ -5,7 +5,9 @@
 ### Usage
 Using via CSS
 1. Include a stylesheet in your document &lt;head&gt;
+```markdown
 
+```
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
